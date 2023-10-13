@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.0)
+project(cryptography_project)
+
+# Include directories for header files
+include_directories(${CMAKE_SOURCE_DIR}/include)
+
+add_executable(main_project_file main.cpp)
+
+# Link against the bcrypt and OpenSSL libraries
+target_link_libraries(YourExecutableName
+    ${CMAKE_SOURCE_DIR}/lib/libbcrypt.lib
+    ${CMAKE_SOURCE_DIR}/lib/libssl.lib
+    ${CMAKE_SOURCE_DIR}/lib/libcrypto.lib
+)

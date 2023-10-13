@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "YO.C": "cpp",
+        "stdio.h": "c",
+        "PERCENTAGE_IF_ELSE_EX.C": "cpp",
+        "ADT_ARRAY.C": "cpp",
+        "ARRAY_ADT.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ARRAY_ADT.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "ADT_ARRAY.C": "cpp",
+        "PERCENTAGE_IF_ELSE_EX.C": "cpp",
+        "YO.C": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "new": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
